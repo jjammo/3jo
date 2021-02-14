@@ -220,7 +220,7 @@
 	}
 	.dropdown-content {
 		position:absolute;
-		bachground-color:#f9f9f9;
+		<%-- background-color:#f9f9f9;	--%>	<%-- 투명/불투명 --%>
 		min-width:160px;
 		box-shadow:0 8px 16px 0 rgba(0,0,0,0.2);
 		display:none;
